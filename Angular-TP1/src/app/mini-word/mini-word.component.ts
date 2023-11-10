@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MiniWordComponent implements OnInit {
   color: string = '#000000';
-  size: number = 16;
+  size: number = 12;
   family: string = 'Arial';
 
   constructor() {}
